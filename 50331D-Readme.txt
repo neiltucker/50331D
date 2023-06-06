@@ -1,6 +1,12 @@
 *****   50331D-Readme.txt   *****     
 50331D - Windows Client, Enterprise Desktop Support Technician
 
+Updates:
+Setup Files:			https://github.com/neiltucker/50331D
+Printed Courseware:		http://www.neiltucker.com
+Online Courseware:		http://www.softwaretutorialservices.com
+
+  
 Class Delivery: 
 This 3 - 5 day instructor-led course provides students with the knowledge and skills needed to isolate, document and resolve problems on Windows Desktops on a corporate network. The material is geared towards corporate IT technicians that support Windows 11 and older clients (Windows 7 is the earliest client supported). Setup resources are now included with student materials to allow them to recreate the classroom environment on their own network or on virtual machines in Microsoft Azure.
   
@@ -23,6 +29,5 @@ The training center or any organization hosting the lab computers for this class
 An Azure deployment of the class may make this process easier.
 
 
-Updates:
-Updates to class files can be found on GitHub (https://github.com/neiltucker/50331D). 
+
 
